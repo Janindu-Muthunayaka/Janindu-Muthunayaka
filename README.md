@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Janindu-Muthunayaka
-- 👀 I’m interested in Data Sience and Analytics mixed with Accouting
+- 👀 I’m interested in Data Science and Analytics as well Accouting and Finance
 - 🌱 I’m currently in a Bachelors Degree for Data Science
 - 🌱 I''m also Studying for a Charted Accouting Qualification
 - 📫 You can reach me via an email
